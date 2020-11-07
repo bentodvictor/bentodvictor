@@ -1,5 +1,7 @@
 ### Hi there, I'm Victor 👋
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bentodvictor" alt="bentodvictor"/>
+</p>
 #### Engineer | Developer | Student
 
 [<img align="left" alt="bentodvictor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
